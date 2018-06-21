@@ -11,6 +11,9 @@ public class MetalAndColorsPageTest extends TestInit {
         indexPage.checkOpened();
         metalColorPageOpen();
         metalsAndColorsPage.checkOpened();
+        summery.selectSummeryNumber(3);
     }
+
+
 
 }
